@@ -1,7 +1,7 @@
 
 ### Hey, I'm Emiliano 👋
-- 🔭 I'm working as PM in a software development company.
-- 🌱 I'm studying Systems Engineer in UTN (Argentina).
+- 🔭 I'm working as a PM in a software development company.
+- 🌱 I'm studying Systems Engineering at UTN (Argentina).
 - ⚡ I play piano and I love music :D
 - 💬 You can get in touch with me by email at [emiliano.guiggiaro@gmail.com](mailto:emiliano.guiggiaro@gmail.com) and [LinkedIn](https://www.linkedin.com/in/emilianoguiggiaro/).
 
