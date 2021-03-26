@@ -15,11 +15,3 @@
 </p>
 
 </details>
-
-<details open>
- <summary> 😇 <b>My Music </b>: </summary>
-<br>
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11123451523)
-
-</details>
-
